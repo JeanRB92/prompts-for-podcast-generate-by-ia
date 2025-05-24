@@ -8,7 +8,7 @@
 
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/ElevenLabs_Untitled_Project.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Podcast Gerado com IA's
