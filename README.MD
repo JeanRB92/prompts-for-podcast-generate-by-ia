@@ -8,10 +8,10 @@
 
 
 <div align="center">
-    <audio src="output/ElevenLabs_Untitled_Project.mp3" controls title="Podcast editado"></audio>
+    <audio src="output/ElevenLabs_Untitled_Project.MP3" controls title="Podcast editado"></audio>
 </div>
 <audio controls>
-    <source src="output/ElevenLabs_Untitled_Project.mp3" type="audio/mpeg">
+    <source src="output/ElevenLabs_Untitled_Project.MP3" type="audio/mpeg">
     Seu navegador não suporta áudio.
 </audio>
 
