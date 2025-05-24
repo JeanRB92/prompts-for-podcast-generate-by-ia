@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./.github/IAmicropho.png"
-    width="800"
+    width="600"
 />
 </p>
 
