@@ -13,7 +13,7 @@
 
 # Podcast Gerado com IA's
 
-O objetivo desse podcast é usar ferramentas de IA para gerar conteúdo de criação deste.
+O objetivo desse podcast é usar ferramentas de IA para gerar conteúdo de criação deste, como método de estudo para o Bootcamp da DIO.
 
 ## 💻 Tecnologias utilizadas no projeto
 
