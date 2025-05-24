@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./.github/IAmicropho.png"
     width="300"
 />
 </p>
